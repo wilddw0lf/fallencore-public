@@ -60,4 +60,4 @@ By default, FallenCore comes with pre-configured files in order for you to get s
 
 ## Additional Support
 By purchasing FallenCore, you get access to our exclusive Discord support network. Join our Discord server below:
-[![Foo](https://discordapp.com/assets/bb408e0343ddedc0967f246f7e89cebf.svg)](https://discord.gg/CrsHVvq)]
+[![Foo](https://discordapp.com/assets/bb408e0343ddedc0967f246f7e89cebf.svg)](https://discord.gg/CrsHVvq)
