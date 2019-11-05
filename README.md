@@ -16,6 +16,7 @@ FallenCore has many features built in. The features listed below do not associat
  - Custom Server List Ping MOTD
 ## Commands & Permissions
 [SPOILER="Commands & Permissions"]
+
 | Command | Function | Permission |
 |--|--|--|
 | /warp | Allows players to warp to predefined locations | fallencore.warp |
@@ -42,6 +43,7 @@ FallenCore has many features built in. The features listed below do not associat
 |/help|Ability to view the preconfigured help message | fallencore.help
 |/notpa| Disable players from sending you teleport requests | fallencore.notpa
 |/tpall | Teleport all players to your current position | fallencore.tpall
+
 [/SPOILER]
 
 ## How to Install & Dependencies
