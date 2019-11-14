@@ -64,6 +64,22 @@ Ability to use colour codes (&) in regular chat - fallencore.chat.color
 /notpa - Disable players from sending you teleport requests - fallencore.notpa
 
 /tpall - Teleport all players to your current position - fallencore.tpall
+
+/revive <player> - Allows a staff member to restore a players inventory - fallencore.revive
+
+/revives <player> - Allows a staff member to view the player's revive history - fallencore.revive
+ 
+/enderchest - Opens your enderchest! Aliases: /ec /echest - fallencore.enderchest
+
+/enderchest <player> - Opens the target players enderchest. Aliases: /ec /echest - fallencore.enderchest.others
+ 
+/msgspy - Allows you to spy on /msg commands - fallencore.msgspy
+
+/tps - Displays the current server ticks per second - fallencore.tps 
+
+Join the server silently! - fallencore.silentjoin
+
+Leave the server silently! - fallencore.silentleave
  
 
 [/SPOILER]
